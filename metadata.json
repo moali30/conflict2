@@ -1,0 +1,6 @@
+{
+  "name": "Course Conflict Analyzer",
+  "description": "Upload an Excel matrix to automatically detect and analyze scheduling conflicts between courses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
